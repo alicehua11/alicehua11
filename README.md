@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alicehua11
+- 👀 I’m interested in Data Science, Machine Learning, Data Engineering
+- 🌱 I’m currently learning JavaScript, Rust, Go, C++
+- 💞️ I’m looking to collaborate on sustainablitiy and environmental projects 
+- 📫 How to reach me: email alicehua11@berkeley.edu
